@@ -72,10 +72,10 @@
         <tr><th>Date</th><th>Payment Type</th><th>Amount</th><th>Status</th></tr>
       </thead>
       <tbody>
-        <tr><td>2025-05-22</td><td>Tuition Fees</td><td>K1200</td><td>Paid</td></tr>
-        <tr><td>2025-01-10</td><td>Tuition Fees</td><td>K4000</td><td>Paid</td></tr>
-        <tr><td>2025-03-05</td><td>Library Fees</td><td>K300</td><td>Paid</td></tr>
-        <tr><td>2025-04-20</td><td>Exam Fees</td><td>K500</td><td>Pending</td></tr>
+        <tr><td>2025-05-22</td><td>Exam Fees</td><td>K1200</td><td>Paid</td></tr>
+        <tr><td>2025-01-10</td><td>Tuition Fees</td><td>K2500</td><td>Paid</td></tr>
+        <tr><td>2025-03-05</td><td>Library Fees</td><td>K100</td><td>Paid</td></tr>
+        <tr><td>2025-05-22</td><td>Exam Fees</td><td>K1200</td><td>Pending</td></tr>
       </tbody>
     </table>
   </div>
